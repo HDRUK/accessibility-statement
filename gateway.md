@@ -118,8 +118,8 @@ Here is the checklist used to assess the pages:
 - Test for fluid behaviour in between breakpoints
 - Check interactivity and navigation on a phone
 
-## Feedback and contact information
+## Alternative formats, feedback and contact information
 
-If you encounter any accessibility issue that’s not detailed in this statement please use our Technology Support Centre to raise this with our product team or you can also email ([gateway@hdruk.ac.uk](mailto:gateway@hdruk.ac.uk)).
+If you encounter any accessibility issue that’s not detailed in this statement or require information on this website in different formats e.g. large print, accessible PDF, Braille, please use our [Technology Support Centre](https://hdruk.atlassian.net/servicedesk/customer/portal/7) to raise this with our product team or you can also email [gateway@hdruk.ac.uk](mailto:gateway@hdruk.ac.uk). We aim to get back to you with a first response within 3 working days.
 
 We’re committed to making our website as accessible and user-friendly as possible. If you’ve experienced any difficulties while using it, we’d love to hear your feedback.
