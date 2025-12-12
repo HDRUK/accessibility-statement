@@ -18,7 +18,7 @@ The content listed below is non-accessible for the following reason(s):
 
 #### Colour contrasts
 
-Some of the colour contrasts within the site do not meet the colour contrast regulations [insert link]. The main reason for this is HDR UK’s branding is currently under a refresh, and one of the core considerations of the new branding is accessibility. We expect therefore that this be resolved in the brand refresh in 2026.
+Some of the colour contrasts within the site do not meet the [colour contrast regulations](https://www.w3.org/TR/WCAG22/#contrast-minimum). The main reason for this is HDR UK’s branding is currently under a refresh, and one of the core considerations of the new branding is accessibility. We expect therefore that this be resolved in the brand refresh in 2026.
 
 #### Some success messages appear for too short a timeframe
 
