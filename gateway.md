@@ -1,4 +1,4 @@
-**Last Updated: 18th November 2025**
+**Last Updated: 12th March 2026**
 
 Health Data Research UK (HDR UK) is committed to making our website accessible for everyone. We aim to meet the Web Content Accessibility Guidelines version 2.2 AA standard where we can. These guidelines are about making web content more inclusive to as many people as possible.
 
@@ -19,34 +19,6 @@ The content listed below is non-accessible for the following reason(s):
 #### Colour contrasts
 
 Some of the colour contrasts within the site do not meet the [colour contrast regulations](https://www.w3.org/TR/WCAG22/#contrast-minimum). The main reason for this is HDR UK’s branding is currently under a refresh, and one of the core considerations of the new branding is accessibility. We expect therefore that this be resolved in the brand refresh in 2026.
-
-#### Some success messages appear for too short a timeframe
-
-We are aware of this and intend to resolve in the coming months by extending the time to at least 5 seconds (WCAG recommendation) and announcing to screen readers when the focus is back on the main page.
-
-#### Contact support button doesn’t work on subsequent attempts
-
-We are aware of a bug that occurs when trying to use this button a second time. The workaround in the meantime is currently to refresh the page and try again. The issue has been logged as having minor impact and will be addressed in a future release.
-
-#### Heading levels
-
-Some of the heading levels don’t follow a logic order (H1, H2, H3 etc.) on some pages which may confuse screen reader users. This is considered to have minor impact, and will be addressed in a future release.
-
-#### 404 Alt text
-
-The image on the 404 Page not found has an incorrect alternative text. This has minor impact as the page also has an alternative text description and will be addressed in a future release.
-
-#### Focus state consistency
-
-Some of the focus state styles are inconsistent which may lead to some confusion for keyboard users. This is considered to have minor impact and will be addressed in a future release.
-
-#### Team management
-
-The permissions checkboxes disable when there is just one left. This may cause some friction for screen reader and keyboard users. This is considered to have minor impact and will be addressed in a future release.
-
-#### Inconsistency of homepage buttons
-
-The order of the buttons on the homepage is slightly different to that in the navigation dropdown. This is considered to have minor impact and will be addressed in a future release.
 
 ### (b) disproportionate burden
 
