@@ -24,7 +24,7 @@ Some of the colour contrasts within the site do not meet the [colour contrast re
 
 #### Newsletter sign-up for screen reader users
 
-Screen reader users may struggle with the newsletter sign-up checkboxes. This is hosted outside of HDR and is outside our immediate control. We are aware of the issue and will look for a resolution for a future release.
+Screen reader users may struggle with the newsletter sign-up checkboxes. This is hosted outside of HDR UK and is outside our immediate control. We are aware of the issue and will look for a resolution for a future release.
 
 ## Preparation of this accessibility statement
 
